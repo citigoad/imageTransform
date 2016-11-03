@@ -30,9 +30,4 @@ An E-mail is sent to the user when the service is used.
 3. Image manipulation API
 4. Mail API
 
-###### Team Members
 
-1. Amarnath Kothapalli
-2. Atmanand Citigori
-3. Sai Siddhardha Reddy Thatiparthi 
-4. Yashmin Singla
